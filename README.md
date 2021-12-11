@@ -1,1 +1,3 @@
-# binary_search_python
+# Binary Search in Python
+
+An exercise inspired from book called Grokking Algorithm.
